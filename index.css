@@ -222,19 +222,19 @@ i{
     }
  
     .card1{
-        margin: 60px 150px;
-        width: 50%;
+        margin: 30px auto;
+        width: 90%;
         height: auto;
         display: block;
         align-items: center;
-     
     }
  
     .car1{
-        width:28rem;
+        width:90%;
     }
     .seat{
-      margin: auto;
+      text-align: center;
+      font-size: 15px;
        
     }
     .car_store h1, 
@@ -269,15 +269,15 @@ i{
     }
  
     .card1{
-        margin: 60px 150px;
-        width: 50%;
+        margin: 30px auto;
+        width: 90%;
         height: auto;
         display: block;
         align-items: center;
     }
  
     .car1{
-        width:24rem;
+        width:90%;
     }
     .seat{
       margin: auto;
@@ -310,14 +310,15 @@ i{
     
         font-size: 15px;
     }
-    .car_store{
-        margin: 100px 150px;
-        align-items: center;
-        display: block;
+    .car_store {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 50px auto;
     }
  
     .card1{
-        margin: 60px 150px;
+        margin: 30px auto;
         width: 80%;
         height: auto;
         display: block;
@@ -325,10 +326,11 @@ i{
     }
  
     .car1{
-        width:21rem;
+        width:80%;
     }
     .seat{
-      margin: auto;
+      text-align: center;
+      font-size: 15px;
        
     }
     .car_store h1, 
@@ -394,18 +396,19 @@ i{
 }
 
 .card1{
-    margin: 60px;
-    width: 80%;
+    margin: 30px auto;
+    width: 100%;
     height: auto;
     display: block;
-    align-items: center;
+    align-items: baseline;
 }
 
 .car1{
-    width:15rem;
+    width:17rem;
+    margin: auto;
 }
 .seat{
-  margin: auto;
+  text-align: center;
   font-size: 15px;
 }
 .car_store h1, 
