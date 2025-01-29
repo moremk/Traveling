@@ -53,7 +53,7 @@ i{
     font-optical-sizing: auto;
     font-style: normal;
 }
-.button{
+.demo input[type="submit"]{
  width:200px;
  height:30px;
  background-color: #17395C;
@@ -64,7 +64,7 @@ i{
  font-size: 15px;
  
 }
-.button:hover{
+.demo input[type="submit"]:hover{
     background-color: #082542;
 }
 .About{
@@ -392,7 +392,7 @@ i{
    .demo{
     font-size: 25px;
    }
-   .button{
+   .demo input[type="submit"]{
    font-size: 15px;
     
    }
